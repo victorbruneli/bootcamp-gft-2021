@@ -1,3 +1,5 @@
+console.log("Início - Jogo do Dinossauro!");
+
 const dino = document.querySelector(".dino");
 
 //keycode.info verificar qual numeracao da tecla
