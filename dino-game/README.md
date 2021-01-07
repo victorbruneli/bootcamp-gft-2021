@@ -16,5 +16,5 @@ Dinossauro não pode bater nos cactus.
 Tecla espaço comando para dinossauro pular.
 
 <p align="center">
-<img src="./img/example.png">
+<img src="./img/example.png" width="500px" >
 </p>
