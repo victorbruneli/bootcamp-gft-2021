@@ -5,7 +5,22 @@ body {
 .dino {
   width: 60px;
   height: 60px;
-  background: green;
+  background-image: url("../img/dino.png");
   position: absolute;
   bottom: 0;
+}
+
+.cactus {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: 0;
+  background-image: url("../img/cactus.png");
+}
+
+.game-over {
+  text-align: center;
+  color: #666666;
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }
