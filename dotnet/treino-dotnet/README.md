@@ -1,7 +1,7 @@
-# Menu-dotNEt
+# Menu-.Net
 
 Aplicativo simples de adcionar, listar e mostrar media.
 
 # Criação
 
-Aplicativo criado com: dotNet.
+Aplicativo criado com: .Net
