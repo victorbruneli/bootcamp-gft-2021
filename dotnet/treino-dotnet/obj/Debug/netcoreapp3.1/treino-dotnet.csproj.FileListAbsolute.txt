@@ -1,0 +1,13 @@
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.exe
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.deps.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.runtimeconfig.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.runtimeconfig.dev.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\bin\Debug\netcoreapp3.1\treino-dotnet.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.csprojAssemblyReference.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.AssemblyInfoInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.AssemblyInfo.cs
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\dotnet\treino-dotnet\obj\Debug\netcoreapp3.1\treino-dotnet.genruntimeconfig.cache
