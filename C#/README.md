@@ -4,7 +4,7 @@ Aplicativo simples de adcionar, listar e mostrar media.
 
 # Criação
 
-Aplicativo criado com: C#
+Aplicativo criado com: C# / .Net
 
 # Funções
 Menu simples com as demais finalidades.
