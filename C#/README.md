@@ -1,10 +1,10 @@
-# Menu-.Net
+# Menu-C# / .Net
 
 Aplicativo simples de adcionar, listar e mostrar media.
 
 # Criação
 
-Aplicativo criado com: .Net
+Aplicativo criado com: C# / .Net
 
 # Funções
 Menu simples com as demais finalidades.
