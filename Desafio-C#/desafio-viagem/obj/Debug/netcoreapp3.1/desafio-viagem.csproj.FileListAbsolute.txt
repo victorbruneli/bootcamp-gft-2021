@@ -1,0 +1,13 @@
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.exe
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.deps.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.runtimeconfig.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.runtimeconfig.dev.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\bin\Debug\netcoreapp3.1\desafio-viagem.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.csprojAssemblyReference.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.AssemblyInfoInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.AssemblyInfo.cs
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.csproj.CoreCompileInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-viagem\obj\Debug\netcoreapp3.1\desafio-viagem.genruntimeconfig.cache
