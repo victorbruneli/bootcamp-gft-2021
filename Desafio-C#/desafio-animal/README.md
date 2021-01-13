@@ -11,7 +11,7 @@ Criado em C#.
 Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita. Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
 
 <p align="center">
-<img src="/animal.png">
+<img src="./animal.png" width="500px" >
 </p>
 
 # Entrada
@@ -24,30 +24,30 @@ Imprima o nome do animal correspondente à entrada fornecida.
 
 # Execução
 
-Exemplos de Entrada
-vertebrado
-mamifero
+Exemplos de Entrada -
+vertebrado /
+mamifero /
 onivoro
 
-Exemplos de Saída
+Exemplos de Saída -
 homem
 
 ---
 
-Exemplos de Entrada
-vertebrado
-ave
+Exemplos de Entrada -
+vertebrado /
+ave /
 carnivoro
 
-Exemplos de Saída
+Exemplos de Saída -
 aguia
 
 ---
 
-Exemplos de Entrada
-invertebrado
-anelideo
+Exemplos de Entrada -
+invertebrado /
+anelideo /
 onivoro
 
-Exemplos de Saída
+Exemplos de Saída -
 minhoca
