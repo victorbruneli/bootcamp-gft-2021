@@ -1,0 +1,13 @@
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.exe
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.deps.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.runtimeconfig.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.runtimeconfig.dev.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\bin\Debug\netcoreapp3.1\desafio-animal.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.csprojAssemblyReference.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.AssemblyInfoInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.AssemblyInfo.cs
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.csproj.CoreCompileInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-animal\obj\Debug\netcoreapp3.1\desafio-animal.genruntimeconfig.cache
