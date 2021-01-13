@@ -1,0 +1,13 @@
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.exe
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.deps.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.runtimeconfig.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.runtimeconfig.dev.json
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\bin\Debug\netcoreapp3.1\desafio-album.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.csprojAssemblyReference.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.AssemblyInfoInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.AssemblyInfo.cs
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.csproj.CoreCompileInputs.cache
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.dll
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.pdb
+C:\Users\t_vbruneli\Desktop\bootcamp-gft-2021\Desafio-C#\desafio-album\obj\Debug\netcoreapp3.1\desafio-album.genruntimeconfig.cache
