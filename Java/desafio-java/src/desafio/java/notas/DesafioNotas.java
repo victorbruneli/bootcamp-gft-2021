@@ -3,7 +3,7 @@ package desafio.java.notas;
 import java.util.Scanner;
 
 
-public class desafioNotas {
+public class DesafioNotas {
     public static void main(String[] args) {
          Scanner leitor = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package desafio.java.numeros;
 
 import java.util.Scanner;
 
-public class desafioNumeros {
+public class DesafioNumeros {
      public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         int a = Integer.parseInt(leitor.next());

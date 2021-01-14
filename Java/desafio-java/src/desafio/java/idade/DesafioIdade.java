@@ -3,7 +3,7 @@ package desafio.java.idade;
 import java.util.Scanner;
 
 
-public class desafioIdade {
+public class DesafioIdade {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 
